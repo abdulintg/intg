@@ -24,9 +24,4 @@ Understand the Computer Vision (Friday)
 
 
 - Object Classification - Run examples of any object classification and understand every line of code. 
-Understand the process of Computer Vision (Friday) 
-- Explore the steps of the process in detail. 
-- Understand the importance of every step. 
-- Explore and write down the possible factors of each step which can take 
-- A lot of time 
-- Computation power
+
