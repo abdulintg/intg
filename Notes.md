@@ -45,4 +45,9 @@ There are mainly five ideal steps that people in the software development indust
 4. Be open to surprising answers.
 5. Stay organized.
 6. Take advantage of library resources.
-
+7. 
+https://www.researchgate.net/publication/337677466_Image_Classification_and_Object_Detection_Algorithm_Based_on_Convolutional_Neural_Network
+Read it completely and Note Down
+1. Achievement and Results: Improved accuracy as compared to traditional algorithms
+2. Dataset used in it: 1.2 million pictures in 1000 categories.
+3. Algorithm architecture: convolutional neural network is used.
