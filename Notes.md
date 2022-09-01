@@ -29,4 +29,15 @@ Explore the Computer Vision Libraries
 - Keras – This is another deep learning library which has a good deployment record on smartphones. Companies like Netflix, yelp and Uber use it for their customers for different applications. This is user friendly with multiple GPU support. disadvantages included problems in low-level API, slower backend and needs some improvements in some features. 
 - OpenCV – This is the popular ML library for computer vision and image processing. This was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. The library it plays a major role in real-time operation which is very important in today's systems. 
  
+● What is research? 
+Research is defined as careful consideration of study regarding a particular concern or problem using scientific methods.
+● How People Do Research in the Software Development Industry ? 
+There are mainly five ideal steps that people in the software development industry follow. These are controlled experiments (including Quasi-Experiments); case studies (both exploratory and confirmatory); survey research; ethnographies;  and action research.
+● What are the prime factors to keep in mind while doing research?
+1. Start broad, then dive into the specifics.
+2. Learn how to recognize a quality source.
+3. Verify information from several sources.
+4. Be open to surprising answers.
+5. Stay organized.
+6. Take advantage of library resources.
 
