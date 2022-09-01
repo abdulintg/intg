@@ -23,5 +23,10 @@ Understand the Computer Vision (Friday)
  
 
 
-- Object Classification - Run examples of any object classification and understand every line of code. 
+Explore the Computer Vision Libraries
+- Tensorflow – This is an open source library by google that is primarily used for deep learning applications with several machine learning capabilities. Disadvantages include inconsistency, achitechtural limitation, dependency and slow speed. However, it is keras friendly, has high compatibility with graphical and architectural support.
+- PyTorch – The is an updated version of the above mentioned library for deep learning that is mostly used for research and narrows the gap between prototyping and development. The is usually written in cpp from the backend to optimize processes. This library has a rich set of powerful APIs to extend the pytorch libraries. This library is used in computer vision and natural language processing applications. 
+- Keras – This is another deep learning library which has a good deployment record on smartphones. Companies like Netflix, yelp and Uber use it for their customers for different applications. This is user friendly with multiple GPU support. disadvantages included problems in low-level API, slower backend and needs some improvements in some features. 
+- OpenCV – This is the popular ML library for computer vision and image processing. This was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. The library it plays a major role in real-time operation which is very important in today's systems. 
+ 
 
